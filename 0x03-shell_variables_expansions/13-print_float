@@ -1,0 +1,2 @@
+#!/bin/bash
+echo NUM="number with two decimal places"
