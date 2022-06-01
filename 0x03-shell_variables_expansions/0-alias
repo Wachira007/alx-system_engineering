@@ -1,0 +1,4 @@
+#!/bin/bash
+alias ls = "ls -al"
+alias rm="rm-i"
+
