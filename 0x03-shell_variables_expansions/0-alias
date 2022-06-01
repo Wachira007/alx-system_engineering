@@ -1,4 +1,2 @@
 #!/bin/bash
-alias ls = "ls -al"
-alias rm="rm-i"
-
+alias ls = "ls -al" alias rm="rm-i"
